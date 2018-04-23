@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetValidationRulesInCode.Module", "HowToSetValidationRulesInCode.Module\HowToSetValidationRulesInCode.Module.vbproj", "{2CADEBE4-BC71-49A6-A79A-E764446DB14C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetValidationRulesInCode.Module.Web", "HowToSetValidationRulesInCode.Module.Web\HowToSetValidationRulesInCode.Module.Web.vbproj", "{774067BB-5D63-4840-BAC4-E56EA6BAF92B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetValidationRulesInCode.Web", "HowToSetValidationRulesInCode.Web\HowToSetValidationRulesInCode.Web.vbproj", "{5B9EB191-AA55-485E-BA96-7210100B4026}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetValidationRulesInCode.Module.Win", "HowToSetValidationRulesInCode.Module.Win\HowToSetValidationRulesInCode.Module.Win.vbproj", "{66FC56C1-3314-41C6-9180-2E2418462C60}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetValidationRulesInCode.Win", "HowToSetValidationRulesInCode.Win\HowToSetValidationRulesInCode.Win.vbproj", "{1C11A44C-BB01-4003-86D9-5E8B3B369112}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CADEBE4-BC71-49A6-A79A-E764446DB14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CADEBE4-BC71-49A6-A79A-E764446DB14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CADEBE4-BC71-49A6-A79A-E764446DB14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CADEBE4-BC71-49A6-A79A-E764446DB14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774067BB-5D63-4840-BAC4-E56EA6BAF92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774067BB-5D63-4840-BAC4-E56EA6BAF92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774067BB-5D63-4840-BAC4-E56EA6BAF92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774067BB-5D63-4840-BAC4-E56EA6BAF92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9EB191-AA55-485E-BA96-7210100B4026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9EB191-AA55-485E-BA96-7210100B4026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9EB191-AA55-485E-BA96-7210100B4026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9EB191-AA55-485E-BA96-7210100B4026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66FC56C1-3314-41C6-9180-2E2418462C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FC56C1-3314-41C6-9180-2E2418462C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FC56C1-3314-41C6-9180-2E2418462C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FC56C1-3314-41C6-9180-2E2418462C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C11A44C-BB01-4003-86D9-5E8B3B369112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C11A44C-BB01-4003-86D9-5E8B3B369112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C11A44C-BB01-4003-86D9-5E8B3B369112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C11A44C-BB01-4003-86D9-5E8B3B369112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
