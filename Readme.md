@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to Set Validation Rules in Code
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e249)**
+**[[Run Online]](https://codecentral.devexpress.com/e249/)**
 <!-- run online end -->
 
 
